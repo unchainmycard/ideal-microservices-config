@@ -1,5 +1,4 @@
 info:
   id: ${spring.application.name}
 logging:
-  level:
-    org.springframework.security: DEBUG
+  level: DEBUG
